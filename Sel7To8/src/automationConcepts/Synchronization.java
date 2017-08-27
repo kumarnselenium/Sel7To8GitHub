@@ -10,6 +10,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class Synchronization {
 
+	//change
+	
 	public void exForImplicitWait() throws InterruptedException
 	{
 		ExcelRead oSearchSht = new ExcelRead("C:\\Selenium\\Sel7PMTo8PM Notes\\eBay Test Data.xls", "Search");
